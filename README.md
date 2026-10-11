@@ -1,4 +1,4 @@
-\# Statistics Canada - Data Intelligence Platform
+Statistics Canada - Data Intelligence Platform
 
 
 
@@ -6,7 +6,7 @@ An end-to-end data engineering project that transforms Canadian public datasets 
 
 
 
-\## Objectives
+Objectives
 
 
 
@@ -25,42 +25,35 @@ An end-to-end data engineering project that transforms Canadian public datasets 
 \- Introduce version control and automated validation with GitHub Actions.
 
 
+TechStack Used
 
-\## TechStack Used
+\- Python
 
+\- PySpark
 
+\- Parquet
 
-\- \*\*Language:\*\* Python
+\- DuckDB
 
-\- \*\*Data Processing:\*\* PySpark
+\- Pandas
 
-\- \*\*File Format:\*\* Parquet
+\- Pytest
 
-\- \*\*SQL Engine:\*\* DuckDB
+\- Ruff
 
-\- \*\*Data Analysis:\*\* Pandas
+\- Power BI Desktop
 
-\- \*\*Testing:\*\* Pytest
-
-\- \*\*Code Quality:\*\* Ruff
-
-\- \*\*Visualization:\*\* Power BI Desktop
-
-\- \*\*Version Control:\*\* Git
+\- Git
 
 
 
-\## PrimarySources
-
-
+PrimarySources
 
 The project will use publicly available Canadian datasets, starting with Statistics Canada.
 
 
 
-\## Architecture
-
-
+Architecture
 
 The pipeline will follow a layered architecture:
 
